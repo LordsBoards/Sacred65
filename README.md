@@ -1,5 +1,8 @@
 # Sacred65 - 65% Mechanical Keyboard PCB
 
+![Front](./front.png)
+![Back](./back.png)
+
 ## Features
 
 - **Layout**: 65% standard.
